@@ -25,8 +25,10 @@ Driven to solve problems creatively & efficiently, while having loads of fun doi
 ## Skills
 
 <p align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" align="left" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" align="left" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" alt="ruby" align="left" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" alt="rubyonrails" align="left" width="40" height="40"/>
+    <img src="https://icongr.am/devicon/html5-plain.svg?size=128&color=currentColor" alt="html5" align="left" width="40" height="40"/>
+    <img src="https://icongr.am/devicon/css3-plain.svg?size=128&color=currentColor" alt="css3" align="left" width="40" height="40"/>
 </p>
