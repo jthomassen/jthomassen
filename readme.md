@@ -4,8 +4,6 @@ Junior Full Stack Developer with experience in React.js, JavaScript, Ruby, and R
 
 Driven to solve problems creatively & efficiently, while having loads of fun doing it. Three words that old bosses and friends would use to describe me are empathetic, talented, and passionate. 
 
-My hot take is that programming fires dopamine to the same neurons as audio production :notes:
-
 ## Projects
 
 **Lyricbook** [Repo](https://github.com/jthomassen/lyricbook-frontend) | [Demo](https://www.youtube.com/watch?v=jH2jRotmVJM&t=16s&ab_channel=JeffThomassen)
@@ -20,4 +18,15 @@ My hot take is that programming fires dopamine to the same neurons as audio prod
 
 ## Contact
 
+<p>
+<a href="https://www.linkedin.com/in/jeff-thomassen/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
+</p>
+
 ## Skills
+
+<p align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain-wordmark.svg" />
+</p>
