@@ -19,7 +19,7 @@ Driven to solve problems creatively & efficiently, while having loads of fun doi
 ## Contact
 
 <p>
-    <a href="https://www.linkedin.com/in/jeff-thomassen/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30" /></a>
+    <a href="https://www.linkedin.com/in/jeff-thomassen/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" /></a>
     <a href="https://medium.com/@jeff.thomassen/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg"  height="30" width="30" /></a>
 </p>
 
