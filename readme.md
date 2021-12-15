@@ -7,15 +7,19 @@ Driven to solve problems creatively & efficiently, while having loads of fun doi
 ## Projects
 
 **Lyricbook** [Repo](https://github.com/jthomassen/lyricbook-frontend) | [Demo](https://www.youtube.com/watch?v=jH2jRotmVJM&t=16s&ab_channel=JeffThomassen)
+A lyric writing and publishing application for artists and songwriters.
 
-**Flashspace** Repo | Demo
+**Flashspace** [Repo](https://github.com/jthomassen/flashcard-study-app) | [Demo](https://www.youtube.com/watch?v=fTcnUv8lH7s&t=1s&ab_channel=JeffThomassen)
+Flashspace is a flashcard application to provide a digital study space for students.
 
-**Orchard** Repo | Demo
+**Orchard** [Repo](https://github.com/jthomassen/orchard-app) | [Demo](https://www.youtube.com/watch?v=Q0sdA39DBG8&t=3s&ab_channel=JeffThomassen)
+Orchard is an application to assist homeowners and renters in posting property listings and find tenants based on their location.
 
-**Reco** Repo
+**Reco** [Repo](https://github.com/jthomassen/reco)
+Reco is an audiophile application for browsing a curated selection of vinyl records
 
-**GitGud** Repo
-
+**GitGud** [Repo](https://github.com/jthomassen/Git-Gud)
+GitGud is a repository workspace for software enginering students who want to organize and prioritize lab repositories. 
 ## Contact
 
 <p>
