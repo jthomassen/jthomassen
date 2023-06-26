@@ -1,6 +1,22 @@
 # Greetings, I'm Jeff Thomassen!
 
-Junior Full Stack Developer with experience in React.js, JavaScript, Ruby, and Ruby on Rails. Background in music composition, audio engineering and customer service with impeccable organizational skills and a big heart :heartpulse:
+Full Stack Developer with experience in: 
+
+    React.js 
+    Angular 
+    JavaScript
+    Ruby Object-Oriented Programming 
+    Ruby on Rails 
+    Java OOP
+    SpringBoot
+    Python
+    SQL 
+    Unix
+    HTML5
+    CSS3
+    ...and many more awesome languages and technologies
+    
+Background in music composition, audio engineering and customer service with impeccable organizational skills and a big heart :heartpulse:
 
 Driven to solve problems creatively & efficiently, while having loads of fun doing it. Three words that old bosses and friends would use to describe me are empathetic, talented, and passionate. 
 
